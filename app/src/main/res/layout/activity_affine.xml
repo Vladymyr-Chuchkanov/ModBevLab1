@@ -132,8 +132,8 @@
 
     <TextView
         android:id="@+id/result_text"
-        android:layout_width="377dp"
-        android:layout_height="178dp"
+        android:layout_width="371dp"
+        android:layout_height="102dp"
         android:layout_marginTop="16dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
