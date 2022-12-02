@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MobDevLab1</string>
+    <string name="author_info_str">Чучканов Володимир ТТП-42 v.chuchkanov@knu.ua</string>
+    <string name="Affine_str">Афінний шифр</string>
+    <string name="Cesar_str">Шифр Цезаря</string>
+</resources>
